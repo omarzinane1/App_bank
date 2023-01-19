@@ -1,0 +1,25 @@
+
+*{
+    box-sizing: border-box;
+    font-size: confortaa;
+}
+/* body-style*/
+body{
+    height: 100vh;
+    background-image: url("body.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+   height: 300px;
+}
+/*login*/
+ .login-form{
+    width: 400px; margin-left: 500px; margin-top: 200px; 
+
+ }
+ #photo{
+    border-radius: 50px;
+ }
+ #error{
+   display: none;
+ }
